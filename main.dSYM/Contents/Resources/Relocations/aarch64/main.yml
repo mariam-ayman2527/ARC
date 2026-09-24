@@ -1,0 +1,7 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/mariamaymansaed/ARC/main'
+relocations:
+  - { offset: 0x249A, size: 0x8, addend: 0x0, symName: __ZStL8__ioinit, symObjAddr: 0xF2EE, symBinAddr: 0x100008000, symSize: 0x0 }
+  - { offset: 0x2651, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100003E70, symSize: 0x34 }
+...
